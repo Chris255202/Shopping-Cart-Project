@@ -12,7 +12,7 @@ The functionalities:\
 -Purchase items
 
 What did you learn?\
-In this project, I took an existing shopping cart and implemented the functionality of it by writing various Javascript\ functions.
+In this project, I took an existing shopping cart and implemented the functionality of it by writing various Javascript functions.
 
 How to use the project:\
 First, open your browser.\
